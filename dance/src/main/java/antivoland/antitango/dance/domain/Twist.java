@@ -1,4 +1,4 @@
-package ru.antivoland.antitango.domain;
+package antivoland.antitango.dance.domain;
 
 /**
  * Очевидно, что угол скручивания зависит от расстояния между танцующими — чем

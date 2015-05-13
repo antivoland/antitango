@@ -1,4 +1,4 @@
-package ru.antivoland.antitango.domain;
+package antivoland.antitango.dance.domain;
 
 import java.util.ArrayList;
 import java.util.List;

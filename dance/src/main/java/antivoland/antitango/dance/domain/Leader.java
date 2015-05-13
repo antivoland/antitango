@@ -1,4 +1,4 @@
-package ru.antivoland.antitango.domain;
+package antivoland.antitango.dance.domain;
 
 public class Leader extends Dancer {
     public static Leader create() {

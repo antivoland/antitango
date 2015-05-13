@@ -1,4 +1,4 @@
-package ru.antivoland.antitango.domain;
+package antivoland.antitango.dance.domain;
 
 // todo: distance between leader's and follower's chests
 // todo: leader's twist angle

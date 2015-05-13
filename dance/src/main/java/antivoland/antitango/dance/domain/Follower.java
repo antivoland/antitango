@@ -1,4 +1,4 @@
-package ru.antivoland.antitango.domain;
+package antivoland.antitango.dance.domain;
 
 public class Follower extends Dancer {
     public static Follower create() {

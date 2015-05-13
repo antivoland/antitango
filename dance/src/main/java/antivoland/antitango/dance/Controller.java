@@ -1,4 +1,4 @@
-package ru.antivoland.antitango;
+package antivoland.antitango.dance;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
